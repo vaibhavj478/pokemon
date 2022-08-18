@@ -1,0 +1,22 @@
+
+
+.pagination{
+
+    width: 90%;
+    margin: 1rem auto;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+
+button{
+
+    margin: 1rem;
+    padding: 1rem 1.5rem;
+    font-family: monospace;
+    /* background-color: rgb(212, 209, 209); */
+    background-color: #f0f8ff;
+    border: 1px solid white ;
+    font-size: 150%;
+}

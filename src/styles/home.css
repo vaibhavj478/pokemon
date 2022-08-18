@@ -1,0 +1,30 @@
+
+
+
+
+#home{
+
+width: 98%;
+border-radius: 5px;
+
+margin: 1rem auto; 
+}
+
+#go{
+
+    position: absolute;
+    /* border: 1px solid red; */
+    top: 65%;
+    left: 50%;
+    font-size: 250%;
+    text-transform: uppercase;
+    color: white;
+    padding: 0.25rem;
+    border-radius: 2px;
+    font-family: cursive;
+    /* background-color:#fff4cfa2 ; */
+    /* background-color:#ffc942af ; */
+    /* background-color:#277bc094 ; */
+    background-color:#ffb30075 ;
+
+}
